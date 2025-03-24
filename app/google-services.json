@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043063693451",
+    "project_id": "face-12b3e",
+    "storage_bucket": "face-12b3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043063693451:android:bc4b928ef25d02eaf9b48e",
+        "android_client_info": {
+          "package_name": "com.example.facetime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPEff1hEaV5qC-OmUAqaz7zvqfduoeic0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
